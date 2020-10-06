@@ -36,7 +36,7 @@
 - Rust
 - Haskell
 
-### Libraries / FrameWork
+### Libraries / Framework
 
 #### I'm familiar with
 
