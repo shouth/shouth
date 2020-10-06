@@ -8,7 +8,7 @@
 - A Member of [ForteFibre](https://www.fortefibre.net)
 - A Member of [StudioAquatan](https://www.aquatan.studio)
 - I'm working on ROBOCON
-- I'm interested in Web Technology, Robotics
+- I'm interested in Web Technology and Robotics
 
 #### Qualifications
 
