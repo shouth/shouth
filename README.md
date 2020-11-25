@@ -18,27 +18,19 @@
 
 ### Languages
 
-#### I'm familiar with
-
 - Java
 - Scala
 - C / C++
 - Python
 - JavaScript
 
-#### I've written in
-
 - Go
 - TypeScript
-
-#### I'm learning
 
 - Rust
 - Haskell
 
 ### Libraries / Framework
-
-#### I'm familiar with
 
 ##### C++
 
@@ -51,8 +43,6 @@
 - D3.js
 - Node.js
 - Express
-
-#### I've used
 
 ##### Java
 
