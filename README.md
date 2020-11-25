@@ -22,12 +22,12 @@
 - Scala
 - C / C++
 - Python
-- JavaScript
-
+- JavaScript / TypeScript
 - Go
-- TypeScript
-
 - Rust
+
+#### Learning
+
 - Haskell
 
 ### Libraries / Framework
