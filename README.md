@@ -43,7 +43,6 @@
 - D3.js
 - Node.js
 - Express
-
 - Vue.js
 - Cycle.js
 - jQuery
