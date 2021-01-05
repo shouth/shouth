@@ -44,6 +44,10 @@
 - Node.js
 - Express
 
+- Vue.js
+- Cycle.js
+- jQuery
+
 ##### Java
 
 - SpringBoot
@@ -57,12 +61,6 @@
 ##### C++
 
 - OpenCV
-
-##### JavaScript
-
-- Vue.js
-- Cycle.js
-- jQuery
 
 ### Backend
 
