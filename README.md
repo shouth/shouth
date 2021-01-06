@@ -35,6 +35,7 @@
 ##### C++
 
 - Eigen
+- OpenCV
 
 ##### JavaScript
 
@@ -56,10 +57,6 @@
 
 - Akka HTTP
 - ScalikeJDBC
-
-##### C++
-
-- OpenCV
 
 ### Backend
 
